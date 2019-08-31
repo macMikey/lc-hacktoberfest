@@ -9,11 +9,11 @@ Your pull requests do not have to be accepted.  You just have to make them.
 
 ## How to Git In On The Planning
 1. Fork or clone this repo. 
-2. Update the suggestion files with ideas, suggestions, things you want to work on, etc.  They don't have to be big things.  Even fixing a typo in the documentation for a particular entry counts.
+2. Update the suggestion files with ideas, suggestions, things you want to work on, etc.  They don't have to be big things (actually, since Hacktoberfest is only a month long, it's better if they are not big things).  Even fixing a typo in the documentation for a particular entry counts.
 3. Commit the changes to the suggestion files and issue a pull request to this repo
 
 ## What is .md?
-You will notice that many of the files are .md files.  .md stands for "markdown", and is just a way of using text characters to mark formatting for the file.
+You will notice that many of the files are .md files.  These are just text files with a ".md" suffix  .md stands for "markdown", and is just a way of using text characters to mark formatting for the file.  Any text editor can read and write .md files.
 #### If you want to learn the syntax of markdown, try
 [Github's Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 #### If you want to use a graphical editor to generate markdown, try
