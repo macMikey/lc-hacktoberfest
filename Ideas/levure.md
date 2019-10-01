@@ -18,4 +18,5 @@ Different Targets For Different Log Types.  Example: developer messages go to on
 
 #### Baker's Assistant
 [Issue 3] (https://github.com/macMikey/lc-hacktoberfest/edit/master/Ideas/levure.md)
+
 The Bakers Assistant plug-in should allow a developer to search for helpers in a central location. The helpers should be able to be installed automatically into the application. If the application uses git then the option of adding the helper as a submodule should be available.
